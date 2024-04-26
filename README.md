@@ -35,3 +35,6 @@
   <a href="https://www.linkedin.com/in/isaac-adler-809937269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/ozokinho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/artur-debv/iOzoki/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=iOzoki&repo=iOzoki&theme=react)](https://github.com/iOzoki/iOzoki)
