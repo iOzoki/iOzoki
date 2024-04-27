@@ -16,6 +16,12 @@
 ##
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iOzoki&bg_color=000000&color=ffffff&line=05fa36&point=00ff33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+##
+
+
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -36,4 +42,4 @@
   <a href="https://steamcommunity.com/id/ozokinho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iOzoki&bg_color=000000&color=ffffff&line=05fa36&point=00ff33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
