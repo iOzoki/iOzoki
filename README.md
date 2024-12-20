@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Isaac Adler and I'm a computer engineering student!
-- 👀 I'm interested in developing games and learning as much as I can about all programming languages. I'm also trying to become Full-Stack!
+- 👀 I'm interested in developing games and learning as much as I can about all programming languages. 
 - 🌱 I’m currently learning C++ and Java.
 
 
