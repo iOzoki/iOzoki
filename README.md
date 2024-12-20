@@ -1,6 +1,8 @@
 - 👋 Hi, I'm Isaac Adler and I'm a computer engineering student!
 - 👀 I'm interested in developing games and learning as much as I can about all programming languages. 
 - 🌱 I’m currently learning C++ and Java.
+- 🏅 OBI medalist 2021, 2022, 2023
+- 🏆 Brazilian Rank 30 SBC in competitive programming "avlc frog"
 
 
 ##
