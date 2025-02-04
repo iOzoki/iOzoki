@@ -1,6 +1,8 @@
 - 👋 Hi, I'm Isaac Adler and I'm a computer engineering student!
 - 👀 I'm interested in developing games and learning as much as I can about all programming languages. 
 - 🌱 I’m currently learning C++ and Java.
+- 💻 My favorite and current IDE <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
 
 ##
 
@@ -32,8 +34,6 @@
 </div>
 
 
-##
-- 💻 My favorite and current IDE <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 ##
 
 <div> 
