@@ -33,9 +33,7 @@
 
 
 ##
-
-- 🌱 My favorite and current IDE <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-
+- 💻 My favorite and current IDE <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 ##
 
 <div> 
